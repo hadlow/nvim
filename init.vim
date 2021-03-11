@@ -15,7 +15,7 @@ let g:seoul256_background = 234
 colo seoul256
 "colorscheme mrkn256
 
-highlight Comment ctermfg=green
+"highlight Comment ctermfg=green
 
 let &t_SI.="\e[6 q" "SI = INSERT mode
 let &t_SR.="\e[2q" "SR = REPLACE mode

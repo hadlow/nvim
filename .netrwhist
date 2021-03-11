@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/billyhadlow/Projects/crabcoin/src'
+let g:netrw_dirhist_2='/Users/billyhadlow/Projects/tsp/generate_data'
+let g:netrw_dirhist_1='/Users/billyhadlow/Projects/mnist-python'
