@@ -17,6 +17,6 @@ colo seoul256
 
 "highlight Comment ctermfg=green
 
-let &t_SI.="\e[6 q" "SI = INSERT mode
-let &t_SR.="\e[2q" "SR = REPLACE mode
+let &t_SI.="\e[5 q" "SI = INSERT mode
+let &t_SR.="\e[2 q" "SR = REPLACE mode
 let &t_EI.="\e[2 q" "EI = NORMAL mode (ELSE)
