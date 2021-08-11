@@ -12,8 +12,8 @@ set ruler
 "set mouse=a
 
 let g:seoul256_background = 234
-colo seoul256
-"colorscheme mrkn256
+"colo seoul256
+colorscheme mrkn256
 
 "highlight Comment ctermfg=green
 
